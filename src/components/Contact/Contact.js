@@ -31,19 +31,19 @@ function Contact() {
         <div class="icons">
             <i class="fas fa-envelope"></i>
             <h3> Email</h3>
-            <p>deepshikhad222@gmail.com</p>
+            <p>rishigupta280594@gmail.com</p>
         </div>
 
         <div class="icons">
             <i class="fas fa-phone"></i>
             <h3>Number</h3>
-            <p>+91-6290063626</p>
+            <p>+91-6299025003</p>
         </div>
 
         <div class="icons">
             <i class="fas fa-map-marker-alt"></i>
             <h3>Address</h3>
-            <p>Jehanabad-804408</p>
+            <p>Jharkhand-828401</p>
         </div>
 
     </div>
